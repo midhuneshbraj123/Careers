@@ -15,4 +15,3 @@ A full-stack blog application built for the Hack Club Stardance mission. Feature
 - Persistent Database Connection via Mongoose
 - Blog Post Creation Interface
 - Home & Blogs Feed Pages
-
